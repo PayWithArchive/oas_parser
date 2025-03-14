@@ -6,7 +6,6 @@ require 'active_support/core_ext/hash/conversions'
 require 'nokogiri'
 
 require 'addressable/uri'
-require 'deep_merge'
 
 require_relative 'oas_parser/path.rb'
 require_relative 'oas_parser/payload.rb'
